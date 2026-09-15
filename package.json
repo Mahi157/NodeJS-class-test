@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-class-test",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "HTTP",
+    "fs"
+  ],
+  "homepage": "https://github.com/Krati-ABESEC/NODEJS-class-test#readme",
+  "bugs": {
+    "url": "https://github.com/Krati-ABESEC/NODEJS-class-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krati-ABESEC/NODEJS-class-test.git"
+  },
+  "license": "ISC",
+  "author": "Krati Agarwal",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
